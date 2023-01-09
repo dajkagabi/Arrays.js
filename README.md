@@ -1,4 +1,4 @@
-# Arrays-js
+# Arrays/lists-js
 
 Arrays with let and const
 
